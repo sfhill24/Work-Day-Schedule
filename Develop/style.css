@@ -26,7 +26,7 @@ textarea{
 }
 
 .time-block{
-  text-align: center;
+  text-align: left;
   border-radius: 0px;
   background-color: lightgray;
 }
@@ -71,4 +71,9 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+
+.input-group{
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
