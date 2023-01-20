@@ -1,6 +1,7 @@
 # Work-Day-Schedule
 
-![Website] (assets/images/Dashboard.png)
+![Screenshot 2023-01-20 121020](https://user-images.githubusercontent.com/49098706/213762031-c72c9abe-fd69-48aa-a0e3-a49a24801e19.png)
+
 
 GIVEN I am using a daily planner to create a schedule </br>
 WHEN I open the planner</br>
